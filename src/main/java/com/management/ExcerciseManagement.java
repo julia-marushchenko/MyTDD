@@ -3,11 +3,11 @@ package com.management;
 import java.util.ArrayList;
 
 
-public class ExcerciseManagement {
+public class ExerciseManagement {
 
     private ArrayList<Exercise> exercises;
 
-    public ExcerciseManagement() {
+    public ExerciseManagement() {
         this.exercises = new ArrayList<>();
     }
 
